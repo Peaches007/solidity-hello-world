@@ -31,7 +31,7 @@
 			},
 			{
 				"inputs": [],
-				"name": "greeting",
+				"name": "greetPerson",
 				"outputs": [
 					{
 						"internalType": "string",
@@ -97,11 +97,11 @@
 	},
 	"sources": {
 		"HelloWorld.sol": {
-			"keccak256": "0x7e4abd7502fbb5534796e1672945a7676aa799e60bdd379869401b4144ab9732",
+			"keccak256": "0xe09b9d3d2626a7cc50f0f92f95d66f4423cc6ec6b4b0c551e401fbd6b52d926b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://b6e69c5d3bc46d6b98d286c95ec70df72bf9fa87e253ca60fc1d06f50b9909b3",
-				"dweb:/ipfs/QmecaqE4EbkE6unstsnBvF6RKhfWrQXRNWuV97R5NSq7cC"
+				"bzz-raw://53ecb9d7d444d2f44e5d575b0b95b3da66ed525e7198ec69d22056e5fb114ac7",
+				"dweb:/ipfs/QmTrR3fsTbk3hZKztQ3bESYhdMbxV9MsLd87pQYb583kah"
 			]
 		}
 	},
